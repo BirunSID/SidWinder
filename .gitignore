@@ -10,3 +10,23 @@ Desktop.ini
 
 # Ignore temporary text files or custom paths users might save
 *.txt
+
+# Python files and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Node.js / JavaScript dependency folder
+node_modules/
+.env
+.env.local
+
+# If on MAC or even on windows
+.DS_Store
+
+# Exceptions!!!!
+!requirements.txt

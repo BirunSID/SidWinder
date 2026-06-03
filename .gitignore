@@ -1,0 +1,12 @@
+# Ignore the third-party binary engines (they will be downloaded via script)
+bin/
+
+# Ignore the dynamically generated user permission manifest
+com.foss.ytdlp.json
+
+# Ignore Windows system and folder thumbnail caches
+Thumbs.db
+Desktop.ini
+
+# Ignore temporary text files or custom paths users might save
+*.txt

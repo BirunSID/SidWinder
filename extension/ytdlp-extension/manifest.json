@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "FOSS yt-dlp Grabber",
+  "version": "1.0",
+  "description": "Sends the active browser tab URL to your local yt-dlp.",
+  "permissions": ["activeTab", "nativeMessaging"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {}
+}

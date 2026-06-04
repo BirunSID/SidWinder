@@ -1,3 +1,12 @@
 {
-  "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "BirunSID",
+      "id": 214155690,
+      "comment_id": 4618810951,
+      "created_at": "2026-06-04T03:59:31Z",
+      "repoId": 1258253724,
+      "pullRequestNo": 2
+    }
+  ]
 }

@@ -132,7 +132,7 @@ To completely remove this project from your computer:
 
 
 # ToDO
-- advanced GUI.
+- advanced GUI
 - download path options.
 - cloudflare bypass.
 - support for more spicy sites out there.
